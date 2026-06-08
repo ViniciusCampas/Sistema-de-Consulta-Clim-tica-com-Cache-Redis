@@ -1,4 +1,4 @@
-# 🌦️ Weather API com Python e Redis
+#Weather API com Python e Redis
 
 Projeto desenvolvido para praticar consumo de APIs REST, cache com Redis e manipulação de dados JSON utilizando Python.
 
